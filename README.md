@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br> My name is Eshwar and I'm currently pursuing bachelor's in SNIST.<br>I'm Passionate about problem solving(DSA) using java and full stack developer.</h2>
+<h2 align="left">💫About me</h2><h3>Hello 👋!</h3><p>My name is Eshwar and I'm currently pursuing bachelor's in SNIST.<br>I'm Passionate about problem solving(DSA) using java and full stack developer.</p>
 
 ###
 
